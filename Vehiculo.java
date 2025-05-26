@@ -37,11 +37,11 @@ public class Vehiculo {
     }
 
    public void color() {
-        System.out.println("El color del vehículo es desconocido.");
+        System.out.println("El color del vehículo es azul.");
     }
 
     public void estado() {
-        System.out.println("El estado del vehículo es desconocido.");
+        System.out.println("El estado del vehículo es buena.");
     }
    
 }
