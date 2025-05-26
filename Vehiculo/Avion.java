@@ -1,3 +1,4 @@
+package Vehiculo;
 public class Avion extends Vehiculo{
     private String aerolinea;
 

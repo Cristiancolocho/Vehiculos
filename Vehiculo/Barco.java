@@ -1,3 +1,4 @@
+package Vehiculo;
 public class Barco extends Vehiculo {
     private int capacidadPasajeros;
 
